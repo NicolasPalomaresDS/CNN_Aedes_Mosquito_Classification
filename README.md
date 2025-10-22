@@ -7,7 +7,7 @@ This repository contains the code of the project in a Jupyter Notebook and the n
 * `util/`: Folder containing scripts required for the proper execution of the Notebook.
 * `gui/`: Folder containing the GUI script used for testing the final model.
 
-The final trained model is not inlcuded in this repository. You can access to it through the following link:
+The final trained model is not inlcuded in this repository. You can access to it through the following Google Drive link:
 
 * [Aedes Classification Trained Model (Google Drive)](https://drive.google.com/drive/folders/1LvRJgP3TuDlwX755R4j6fICcbMMVHiCj?usp=sharing)
 
