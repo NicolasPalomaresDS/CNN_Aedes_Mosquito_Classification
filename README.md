@@ -62,4 +62,4 @@ https://www.kaggle.com/datasets/nicolaspalomares/aedes-mosquitos-dataset-reduced
 
 Dataset reduced from original by *Pradeep Isawasan*: <br> https://www.kaggle.com/datasets/pradeepisawasan/aedes-mosquitos
 
-(You can download the dataset directly through the Notebook)
+The download is already configured in the Notebook, along with `kaggle.json` setting.
