@@ -1,22 +1,19 @@
 # Aedes Mosquitoes Classification Using Deep Learning and Computer Vision Techniques
----
 This repository contains the code of the project in a Jupyter Notebook and the necessary resources. The objective was to classify Aedes mosquitos between two particular species: *Aegypti* and *Albopictus*. The task will be addressed by constructing a Convolutional Neural Network (CNN) capable of predicting whether a mosquito image belongs to *Aegypti* or *Albopictus*.
 
 # Directory Structure
----
 * `notebook.ipynb`: Jupyter Notebook containing the project.
 * `requirements.txt`: Requirements for the project.
 * `util/`: Folder containing scripts required for the proper execution of the Notebook.
 * `gui/`: Folder containing the GUI script used for testing the final model.
 
-The final trained model is not inlcuded in this repository. You can access to it through the following link:
+The final trained model is not inlcuded in this repository. You can access to it through the following Google Drive link:
 
 * [Aedes Classification Trained Model (Google Drive)](https://drive.google.com/drive/folders/1LvRJgP3TuDlwX755R4j6fICcbMMVHiCj?usp=sharing)
 
-This Drive includes the model itself, summaries and plots.
+This Drive includes the model itself, summaries and plots. However, you can run the Notebook and train the model again by yourself without problems.
 
 # Requirements
----
 This project requires Python 3.13.7 and the packages listed in `requirements.txt`. To install the necessary dependencies, you can run the following command:
 
 ```bash
@@ -56,8 +53,7 @@ venv\Scripts\activate        # Windows
 Once the virtual environment is activated, install the required packages.
 
 # Data Used
----
-https://www.kaggle.com/datasets/nicolaspalomares/aedes-mosquitos-dataset-reduced
+https://www.kaggle.com/datasets/nicolaspalomares/aedes-mosquitos-dataset-reduced <br>
 *Aedes Mosquitos Dataset (Reduced) - Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse)*
 
-Dataset reduced from original by *Pradeep Isawasan*: https://www.kaggle.com/datasets/pradeepisawasan/aedes-mosquitos
+Dataset reduced from original by *Pradeep Isawasan*: <br> https://www.kaggle.com/datasets/pradeepisawasan/aedes-mosquitos
