@@ -32,7 +32,11 @@ pip install tensorflow==2.20.0 \
             kaggle==1.7.4.5
 ```
 
-Alternatively, you can install all dependencies directly from the requirements.txt file: `pip install -r requirements.txt`
+Alternatively, you can install all dependencies directly from the requirements.txt file: 
+
+```bash
+pip install -r requirements.txt
+```
 
 Notes:
 * Make sure you are using a compatible Python version (e.g., Python 3.11 or later).
