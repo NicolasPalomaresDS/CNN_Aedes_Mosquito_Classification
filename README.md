@@ -61,3 +61,5 @@ https://www.kaggle.com/datasets/nicolaspalomares/aedes-mosquitos-dataset-reduced
 *Aedes Mosquitos Dataset (Reduced) - Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse)*
 
 Dataset reduced from original by *Pradeep Isawasan*: <br> https://www.kaggle.com/datasets/pradeepisawasan/aedes-mosquitos
+
+(You can download the dataset directly through the Notebook)
