@@ -11,7 +11,7 @@ The final trained model is not inlcuded in this repository. You can access to it
 
 * [Aedes Classification Trained Model (Google Drive)](https://drive.google.com/drive/folders/1LvRJgP3TuDlwX755R4j6fICcbMMVHiCj?usp=sharing)
 
-This Drive includes the model itself, summaries and plots.
+This Drive includes the model itself, summaries and plots. However, you can run the Notebook and train the model again by yourself without problems.
 
 # Requirements
 This project requires Python 3.13.7 and the packages listed in `requirements.txt`. To install the necessary dependencies, you can run the following command:
